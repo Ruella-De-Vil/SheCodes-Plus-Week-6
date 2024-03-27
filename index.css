@@ -1,7 +1,10 @@
 header {
     color: #330628;
     text-align: center;
-    text-decoration: dashed;
     font-size: 5em;
     margin: auto;
+}
+
+h2 {
+    text-align: center;
 }
